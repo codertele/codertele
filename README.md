@@ -7,6 +7,11 @@
 |-
 <img src="https://i.postimg.cc/8PBQ0FqJ/Captura-desde-2025-05-19-11-49-11.png" style="width: 20%; height: auto;">
 
+| Cuadernos |
+|-
+<img src="https://i.postimg.cc/qBGg87jw/Captura-desde-2025-05-19-12-15-35.png" style="width: 30%; height: auto;">
+
+
 
 
 
