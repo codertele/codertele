@@ -17,6 +17,17 @@
 <img src="https://i.postimg.cc/qBGg87jw/Captura-desde-2025-05-19-12-15-35.png" style="width: 30%; height: auto;">
 </a>
 
+| Proyecto de Software |
+|-
+<a href="" target="_blank">
+<img src="https://i.postimg.cc/wx0Wnpdg/software.jpg" style="width: 30%; height: auto;">
+</a>
+
+| Proyecto de Datos |
+|-
+<a href="" target="_blank">
+<img src="https://i.postimg.cc/Wbz9vH2r/datos.jpg" style="width: 30%; height: auto;">
+</a>
 
 
 
